@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 513.09 157.27">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        fill: #68c9d0;
+      }
+
+      .cls-5, .cls-4 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: .25px;
+      }
+
+      .cls-6 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 95.48px;
+      }
+
+      .cls-7 {
+        fill: #38c6f4;
+      }
+    </style>
+  </defs>
+  <path class="cls-5" d="M78.64.12v39.58c-21.5,0-38.93,17.43-38.93,38.93H.12C.12,35.28,35.27.12,78.64.12Z"/>
+  <path class="cls-4" d="M157.14,78.64c0,43.36-35.15,78.51-78.51,78.51S.12,121.99.12,78.64h39.58c0,21.5,17.43,38.93,38.93,38.93s38.92-17.43,38.92-38.93h39.59Z"/>
+  <path class="cls-5" d="M100.58,78.64c0,12.12-9.83,21.95-21.95,21.95s-21.96-9.83-21.96-21.95h43.91Z"/>
+  <path class="cls-4" d="M100.58,78.64h-43.91c0-12.12,9.83-21.95,21.96-21.95s21.95,9.83,21.95,21.95Z"/>
+  <text class="cls-6" transform="translate(162.82 133.28) scale(1.28 1)"><tspan class="cls-2" x="0" y="0">E</tspan><tspan class="cls-1" x="47.26" y="0">z</tspan><tspan class="cls-3" x="87.45" y="0">e</tspan><tspan class="cls-7" x="135.29" y="0">Din</tspan></text>
+</svg>
