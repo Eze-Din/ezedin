@@ -4,7 +4,6 @@ import binance from "./binance.png";
 import card from "./card.png";
 import coinbase from "./coinbase.png";
 import dropbox from "./dropbox.png";
-import logo from "./logo.svg";
 import logoezedin from "./logoezedin.svg";
 import quotes from "./quotes.svg";
 import robot from "./robot.png";
@@ -33,6 +32,7 @@ import gitio from "./gitio.png";
 import portfoliosample from "./portfoliosample.png";
 import cafemngt from "./cafemngt.png";
 import portfolio from "./portfolio.png";
+import ezehero from "./ezehero.png";
 
 export {
   airbnb,
@@ -41,7 +41,6 @@ export {
   card,
   coinbase,
   dropbox,
-  logo,
   logoezedin,
   quotes,
   robot,
@@ -70,4 +69,5 @@ export {
   portfoliosample,
   cafemngt,
   portfolio,
+  ezehero,
 };

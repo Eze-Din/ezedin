@@ -1,5 +1,5 @@
 import styles from "../style";
-import { team } from "../assets";
+import { ezehero } from "../assets";
 import GetStarted from "./GetStarted";
 
 const Hero = () => {
@@ -33,8 +33,8 @@ const Hero = () => {
         className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}
       >
         <img
-          src={team}
-          alt="team"
+          src={ezehero}
+          alt="Ezedin"
           className="w-[100%] h-[100%] relative z-[5]"
         />
 

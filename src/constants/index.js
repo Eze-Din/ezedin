@@ -82,22 +82,22 @@ export const blog = [
     link: "https://www.binance.com/en-NG/square/post/8485999695090"
   },
   {
-    title: "Blog Post 2",
-    date: "February 1, 2024",
-    content: "This is the content of the second blog post. It can be a summary or the full content.",
-    link: "/blog/post-2"
+    title: "Is AI going to upend the face of gambling?",
+    date: "May 26, 2024",
+    content: "AI has made some – to put it mildly – big changes in our world in recent years, and although nobody can say for sure what it’s going to do next or what kind of impact it’s going to have on many aspects of our lives, people are eagerly looking out for those alterations (some with slight trepidation). What does it mean for those who love the buzz and thrill of the casino world?",
+    link: "https://www.artificialintelligence-news.com/2024/05/20/is-ai-going-to-upend-the-face-of-gambling/"
   },
   {
-    title: "Blog Post 4",
-    date: "February 10, 2024",
-    content: "This is the content of the second blog post. It can be a summary or the full content.",
-    link: "/blog/post-4"
+    title: "Scarlett Johansson accuses OpenAI of creating a voice similar to hers without permission",
+    date: "May 26, 2024",
+    content: "Actress Scarlett Johansson says tech company OpenAI has created a robot voice far too close to her own without permission. Johansson says one of the voices on OpenAI's new chatbot is 'eerily similar' to her own. OpenAI's co-founder says the company has paused the use of the voice but denies copying Johansson's. NBC News' Liz Kreutz reports.",
+    link: "https://www.nbcnews.com/nightly-news/video/scarlett-johansson-accuses-openai-of-creating-a-voice-similar-to-hers-without-permission-211351621837"
   },
   {
-    title: "Blog Post 3",
-    date: "March 1, 2024",
-    content: "This is the content of the third blog post. It can be a summary or the full content.",
-    link: "/blog/post-3"
+    title: "Artists sign open letter warning against 'predatory' use of AI in music",
+    date: "May 26, 2024",
+    content: "Musicians vs AI. A new open letter from the Artist Rights Alliance non-profit states that when used irresponsibly, artificial intelligence 'poses enormous threats to our ability to protect our privacy, our identities, our music and our livelihoods.'.",
+    link: "https://www.euronews.com/culture/2024/04/03/artists-sign-open-letter-warning-against-predatory-use-of-ai-in-music"
   }
 ];
 
