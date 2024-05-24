@@ -41,11 +41,11 @@ Contributions to this project are always welcome, whether it's bug reports, feat
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md).
+This project is licensed under the MIT License(LICENSE.md).
 
 ## Contact
 
-For any queries or further assistance, please contact me at [ezedinnigussie@gmail.com](mailto:ezedinnigussie@gmail.com).
+For any queries or further assistance, please contact me at ezedinnigussie@gmail.com(mailto:ezedinnigussie@gmail.com).
 
 ## Acknowledgments
 
