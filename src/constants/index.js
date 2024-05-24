@@ -76,10 +76,10 @@ export const projectss = [
 
 export const blog = [
   {
-    title: "Blog Post 1",
-    date: "January 1, 2024",
-    content: "This is the content of the first blog post. It can be a summary or the full content.",
-    link: "/blog/post-1" // You can set up individual post routes if needed
+    title: "Tapswap Airdrop: Tap TO Earn",
+    date: "May 26, 2024",
+    content: "Tap swap is an exciting and easy way to earn tokens by simply tapping on your screen. This guide will explain what Tapswap is, how to get started, and how you can maximize your earnings.",
+    link: "https://www.binance.com/en-NG/square/post/8485999695090"
   },
   {
     title: "Blog Post 2",
