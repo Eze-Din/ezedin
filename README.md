@@ -15,6 +15,23 @@ A personal portfolio website to showcase my works and experiences.
 - **TailwindCSS** - A utility-first CSS framework for rapidly building custom designs.
 - **SVG** - Scalable Vector Graphics for creating dynamic and responsive illustrations.
 
+## Contributing
+
+#Contributions to this project are always welcome, whether it's bug reports, feature requests, or pull requests. Please read through our contributing guidelines before making a contribution.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE.md).
+
+## Contact
+
+For any queries or further assistance, please contact me at [ezedinnigussie@gmail.com](mailto:ezedinnigussie@gmail.com).
+
+## Acknowledgments
+
+- Thanks to all the contributors who have helped to enhance and expand this project.
+- Special thanks to ReactJs, TailwindCSS, Vite, Node.
+
 ## Setup and Installation
 
 ```bash
@@ -35,19 +52,3 @@ npm start
 
 # Build for production
 npm run build
-
-#Contributing
-Contributions to this project are always welcome, whether it's bug reports, feature requests, or pull requests. Please read through our contributing guidelines before making a contribution.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
-
-## Contact
-
-For any queries or further assistance, please contact me at [ezedinnigussie@gmail.com](mailto:ezedinnigussie@gmail.com).
-
-## Acknowledgments
-
-- Thanks to all the contributors who have helped to enhance and expand this project.
-- Special thanks to ReactJs, TailwindCSS, Vite, Node.
