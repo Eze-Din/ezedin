@@ -41,13 +41,13 @@ Contributions to this project are always welcome, whether it's bug reports, feat
 
 ## License
 
-This project is licensed under the MIT License(LICENSE.md).
+This project is licensed under the [MIT License](LICENSE.md).
 
 ## Contact
 
-For any queries or further assistance, please contact me at ezedinnigussie@gmail.com(mailto:ezedinnigussie@gmail.com).
+For any queries or further assistance, please contact me at [ezedinnigussie@gmail.com](mailto:ezedinnigussie@gmail.com).
 
 ## Acknowledgments
 
 - Thanks to all the contributors who have helped to enhance and expand this project.
-- Special thanks to ReactJs, TailwindCSS, Vite, NodeJs.
+- Special thanks to ReactJs, TailwindCSS, Vite, Node.
