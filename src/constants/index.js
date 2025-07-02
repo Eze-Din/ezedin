@@ -1,4 +1,4 @@
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star, gitio, portfoliosample, cafemngt, portfolio, ayla, swans, jeddarah, almajd, umulawlad } from "../assets";
+import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star, gitio, portfoliosample, cafemngt, portfolio, swans, jeddarah, almajd, umulawlad } from "../assets";
 
 export const navLinks = [
   {

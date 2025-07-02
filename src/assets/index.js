@@ -74,7 +74,6 @@ export {
   cafemngt,
   portfolio,
   ezehero,
-  ayla,
   swans,
   almajd,
   jeddarah,
