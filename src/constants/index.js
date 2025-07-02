@@ -49,18 +49,6 @@ export const features = [
 
 export const projectss = [
   {
-    title: "Github Portfolio",
-    description: "A stunnig portfolio website built using pure javascript.",
-    image: gitio,
-    link: "https://github.com/eze-din/eze-din.github.io"
-  },
-  {
-    title: "Simple Portfolio",
-    description: "A simple single page portfolio built in HTML.",
-    image: portfoliosample,
-    link: "https://github.com/eze-din/ezedin-nigussie"
-  },
-  {
     title: "University Cafe Management",
     description: "A desktop application to control university students cafeteria management system, built using C# in MS Visual Studio.",
     image: cafemngt,
@@ -71,6 +59,18 @@ export const projectss = [
     description: "A modern portfolio website built in ReactJs.",
     image: portfolio,
     link: "https://ezedin.vercel.app"
+  },
+  {
+    title: "Github Portfolio",
+    description: "A stunnig portfolio website built using pure javascript.",
+    image: gitio,
+    link: "https://github.com/eze-din/eze-din.github.io"
+  },
+  {
+    title: "Simple Portfolio",
+    description: "A simple single page portfolio built in HTML.",
+    image: portfoliosample,
+    link: "https://github.com/eze-din/ezedin-nigussie"
   },
 ];
 
