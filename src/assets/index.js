@@ -33,6 +33,11 @@ import portfoliosample from "./portfoliosample.png";
 import cafemngt from "./cafemngt.png";
 import portfolio from "./portfolio.png";
 import ezehero from "./ezehero.png";
+import ayla from "./ayla.png";
+import swans from "./swans.png";
+import almajd from "./almajd.png";
+import jeddarah from "./jeddarah.png";
+import umulawlad from "./umulawlad.png";
 
 export {
   airbnb,
@@ -70,4 +75,9 @@ export {
   cafemngt,
   portfolio,
   ezehero,
+  ayla,
+  swans,
+  almajd,
+  jeddarah,
+  umulawlad,
 };
