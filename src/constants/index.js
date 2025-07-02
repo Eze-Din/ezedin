@@ -76,7 +76,7 @@ export const projectss = [
     title: "UmulAwlad Foreign Employment Agency",
     description: "A colorful and functional foreign recruitment agency website build using ReactJS with TailwindCSS and hosted on vercel.",
     image: umulawlad,
-    link: "https://umulawlad.vercel.app"
+    link: "https://umulawladagency.vercel.app"
   },
   {
     title: "University Cafe Management",
