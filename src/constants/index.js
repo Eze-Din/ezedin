@@ -51,7 +51,7 @@ export const projectss = [
   {
     title: "Ayla Tour and Travel",
     description: "A modern and attractive Tour and Travel agent website build using wordpress agency theme.",
-    image: ayla,
+    image: star,
     link: "https://aylatourandtravel.com"
   },
   {
