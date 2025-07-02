@@ -1,4 +1,4 @@
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star, gitio, portfoliosample, cafemngt, portfolio } from "../assets";
+import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star, gitio, portfoliosample, cafemngt, portfolio, ayla, swans, jeddarah, almajd, umulawlad } from "../assets";
 
 export const navLinks = [
   {
@@ -48,6 +48,36 @@ export const features = [
 ];
 
 export const projectss = [
+  {
+    title: "Ayla Tour and Travel",
+    description: "A modern and attractive Tour and Travel agent website build using wordpress agency theme.",
+    image: ayla,
+    link: "https://aylatourandtravel.com"
+  },
+  {
+    title: "Swans Foreign Employment Agency",
+    description: "An attractive recruitment agency website build using popular wordpress astra theme.",
+    image: swans,
+    link: "https://swans-agency.com"
+  },
+  {
+    title: "Almajd Foreign Employment Agency",
+    description: "A modern and plugin rich foreign recruitment agency website build using custome wordpress theme.",
+    image: almajd,
+    link: "https://almajd-agency.com"
+  },
+  {
+    title: "Jeddarah Training Center",
+    description: "A modern and simple looking foreign workers training center website build using custome wordpress theme.",
+    image: jeddarah,
+    link: "https://jeddarahtraining.com"
+  },
+  {
+    title: "UmulAwlad Foreign Employment Agency",
+    description: "A colorful and functional foreign recruitment agency website build using ReactJS with TailwindCSS and hosted on vercel.",
+    image: umulawlad,
+    link: "https://umulawlad.vercel.app"
+  },
   {
     title: "University Cafe Management",
     description: "A desktop application to control university students cafeteria management system, built using C# in MS Visual Studio.",
