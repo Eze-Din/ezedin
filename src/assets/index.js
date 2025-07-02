@@ -33,11 +33,11 @@ import portfoliosample from "./portfoliosample.png";
 import cafemngt from "./cafemngt.png";
 import portfolio from "./portfolio.png";
 import ezehero from "./ezehero.png";
-import ayla from "./ayla.PNG";
-import swans from "./swans.PNG";
-import almajd from "./almajd.PNG";
-import jeddarah from "./jeddarah.PNG";
-import umulawlad from "./umulawlad.PNG";
+import ayla from "./ayla.png";
+import swans from "./swans.png";
+import almajd from "./almajd.png";
+import jeddarah from "./jeddarah.png";
+import umulawlad from "./umulawlad.png";
 
 export {
   airbnb,
