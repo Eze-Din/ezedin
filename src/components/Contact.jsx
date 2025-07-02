@@ -49,7 +49,7 @@ const Contact = () => {
               </li>
               <li>
                 <span className="font-semibold">Address: </span>
-                <p className="text-gray-400">Jemo-1, Addis Ababa, Ethiopia</p>
+                <p className="text-gray-400">Ayertena, Addis Ababa, Ethiopia</p>
               </li>
             </ul>
           </div>
