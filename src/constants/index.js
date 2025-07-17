@@ -106,28 +106,28 @@ export const projectss = [
 
 export const blog = [
   {
-    title: "Tapswap Airdrop: Tap TO Earn",
-    date: "May 26, 2024",
-    content: "Tap swap is an exciting and easy way to earn tokens by simply tapping on your screen. This guide will explain what Tapswap is, how to get started, and how you can maximize your earnings.",
-    link: "https://www.binance.com/en-NG/square/post/8485999695090"
+    title: "TikTok is adding features for songwriters to its app",
+    date: "Jul 17, 2025",
+    content: "TikTok is adding new features to its app to let songwriters highlight their works. These features, rolling out in beta, include a “Songwriter” label and a new tab on their profile to show off their musical works. This can help songwriters market themselves better to potential clients.",
+    link: "https://techcrunch.com/2025/07/17/tiktok-is-adding-features-for-songwriters-to-its-app/"
   },
   {
     title: "Is AI going to upend the face of gambling?",
-    date: "May 26, 2024",
+    date: "May 26, 2025",
     content: "AI has made some – to put it mildly – big changes in our world in recent years, and although nobody can say for sure what it’s going to do next or what kind of impact it’s going to have on many aspects of our lives, people are eagerly looking out for those alterations (some with slight trepidation). What does it mean for those who love the buzz and thrill of the casino world?",
     link: "https://www.artificialintelligence-news.com/2024/05/20/is-ai-going-to-upend-the-face-of-gambling/"
   },
   {
-    title: "Scarlett Johansson accuses OpenAI of creating a voice similar to hers without permission",
-    date: "May 26, 2024",
-    content: "Actress Scarlett Johansson says tech company OpenAI has created a robot voice far too close to her own without permission. Johansson says one of the voices on OpenAI's new chatbot is 'eerily similar' to her own. OpenAI's co-founder says the company has paused the use of the voice but denies copying Johansson's. NBC News' Liz Kreutz reports.",
-    link: "https://www.nbcnews.com/nightly-news/video/scarlett-johansson-accuses-openai-of-creating-a-voice-similar-to-hers-without-permission-211351621837"
+    title: "Two new ways YouTube is using AI to bring you more of what you love",
+    date: "Jul 16, 2025",
+    content: "Today we’re introducing two AI updates to help you dive deeper, learn faster, and find what you’re looking for more easily on YouTube. Check out below!",
+    link: "https://blog.youtube/news-and-events/new-youtube-ai-tools-summer-2025/"
   },
   {
-    title: "Artists sign open letter warning against 'predatory' use of AI in music",
-    date: "May 26, 2024",
-    content: "Musicians vs AI. A new open letter from the Artist Rights Alliance non-profit states that when used irresponsibly, artificial intelligence 'poses enormous threats to our ability to protect our privacy, our identities, our music and our livelihoods.'.",
-    link: "https://www.euronews.com/culture/2024/04/03/artists-sign-open-letter-warning-against-predatory-use-of-ai-in-music"
+    title: "Ethiopian AI Institute Launches 2025 Youth Summer Camp to Forge Global Tech Competitors",
+    date: "Jul 10, 2025",
+    content: "Addis Ababa, July 12, 2025 (ENA)— The Ethiopian Artificial Intelligence Institute has officially launched its 2025 AI Summer Camp—an ambitious initiative designed to equip Ethiopian youth with cutting-edge knowledge and skills in artificial intelligence.",
+    link: "https://www.ena.et/web/eng/w/eng_6940492"
   }
 ];
 
