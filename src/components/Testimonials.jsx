@@ -17,7 +17,7 @@ const Testimonials = () => (
       </div>
     </div>
 
-    <div className="overflow-hidden w-full">
+    <div className="overflow-hidden w-full group">
       <div className="flex flex-row flex-nowrap gap-6 animate-scroll w-max">
         {feedback.map((item, index) => (
           <FeedbackCard key={index} {...item} />
